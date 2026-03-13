@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Berkan Akin, a 19-year-old computer science student passionate about building innovative and functional applications, I am currently studying in the IUT of Annecy, France. As a passionate developer, I strive to continuously improve both personally and technically. I am passionate about new technologies and user-focused applications. My experience in several programming languages and object-relational database management system gives me a certain confidence regarding future challenges. I’m always eager to learn new technologies and work on new projects.
+Hi, I'm Berkan Akin, a 20-year-old computer science student passionate about building innovative and functional applications, I am currently studying in the IUT of Annecy, France. As a passionate developer, I strive to continuously improve both personally and technically. I am passionate about new technologies and user-focused applications. My experience in several programming languages and object-relational database management system gives me a certain confidence regarding future challenges. I’m always eager to learn new technologies and work on new projects.
 
 
 # 💻 Tech Stack
